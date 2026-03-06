@@ -1,0 +1,5 @@
+services:
+  robot:
+    image:  anssi/fcsc2023-pwn-robot:latest
+    ports:
+      - "4000:4000"
